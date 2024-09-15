@@ -29,7 +29,7 @@ event_fields:
   type: UnicodeString
   description: the name of the session to which the user was reconnected
   sample_value: RDP-Tcp#6
-- standard_name: SrcHostName
+- standard_name: SrcDvcHostname
   standard_type: TBD
   name: ClientName
   type: UnicodeString
