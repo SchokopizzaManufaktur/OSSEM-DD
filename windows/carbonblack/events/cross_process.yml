@@ -95,7 +95,7 @@ event_fields:
   type: TEXT
   description: md5 of target process executable image
   sample_value: 382100E75B6F4668AEAEF228C6CEFFAD
-- standard_name: TargetProcessPath
+- standard_name: TargetProcessFilePath
   standard_type: TBD
   name: target_path
   type: TEXT

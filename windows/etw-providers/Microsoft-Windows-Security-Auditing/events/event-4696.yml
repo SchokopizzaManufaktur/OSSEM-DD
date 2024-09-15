@@ -59,7 +59,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the new process with new security token. If you convert the hexadecimal value to decimal, you can compare it to the values in Task Manager.
   sample_value: '0xf40'
-- standard_name: TargetProcessPath
+- standard_name: TargetProcessFilePath
   standard_type: TBD
   name: TargetProcessName
   type: UnicodeString
