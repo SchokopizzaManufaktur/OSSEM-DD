@@ -53,7 +53,7 @@ event_fields:
   type: string
   description: ''
   sample_value: 46,PAD-SNI-STK-VER-CCS-NONC-AEAD-UAID-SCID-TCID-PDMD-SMHL-ICSL-NONP-PUBS-MIDS-SCLS-KEXS-XLCT-CSCT-COPT-CCRT-IRTT-CFCW-SFCW
-- standard_name: DstHostName
+- standard_name: DstDvcHostname
   standard_type: TBD
   name: server_name
   type: string
