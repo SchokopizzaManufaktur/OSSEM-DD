@@ -35,7 +35,7 @@ event_fields:
   type: string
   description: File path of the process that made the network connection
   sample_value: /usr/sbin/rsyslogd
-- standard_name: ActorUserName
+- standard_name: SrcUserName
   standard_type: TBD
   name: User
   type: string

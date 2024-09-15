@@ -47,7 +47,7 @@ event_fields:
   type: date
   description: File creation time
   sample_value: '2021-10-14T22:39:15.5650000Z'
-- standard_name: ActorUserName
+- standard_name: SrcUserName
   standard_type: TBD
   name: User
   type: string

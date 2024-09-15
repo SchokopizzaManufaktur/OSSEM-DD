@@ -137,7 +137,7 @@ event_fields:
   type: string
   description: Arguments which were passed to the executable associated with the parent process
   sample_value: C:\WINDOWS\system32\cmd.exe
-- standard_name: ActingUserName
+- standard_name: SrcUserName
   standard_type: TBD
   name: ParentUser
   type: string

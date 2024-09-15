@@ -41,7 +41,7 @@ event_fields:
   type: string
   description: Target device
   sample_value: /dev/sda1
-- standard_name: ActorUserName
+- standard_name: SrcUserName
   standard_type: TBD
   name: User
   type: string

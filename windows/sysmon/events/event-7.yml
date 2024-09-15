@@ -95,7 +95,7 @@ event_fields:
   type: string
   description: status of the signature (i.e valid)
   sample_value: Valid
-- standard_name: ActorUserName
+- standard_name: SrcUserName
   standard_type: TBD
   name: User
   type: string
