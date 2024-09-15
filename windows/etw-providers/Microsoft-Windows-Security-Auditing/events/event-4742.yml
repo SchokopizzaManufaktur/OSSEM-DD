@@ -83,7 +83,7 @@ event_fields:
   type: UnicodeString
   description: user's home directory. If homeDrive attribute is set and specifies a drive letter, homeDirectory should be a UNC path. The path must be a network UNC of the form \Server\Share\Directory. If the value of homeDirectory attribute of computer object was changed, you will see the new value here. For computer objects, it is optional, and typically is not set. You can change this attribute by using Active Directory Users and Computers, or through a script, for example.
   sample_value: '-'
-- standard_name: TargetHostHomeOath
+- standard_name: TargetHostHomePath
   standard_type: TBD
   name: HomePath
   type: UnicodeString
