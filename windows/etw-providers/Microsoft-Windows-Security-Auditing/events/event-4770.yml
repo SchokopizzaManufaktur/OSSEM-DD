@@ -35,7 +35,7 @@ event_fields:
   type: HexInt32
   description: this is a set of different Ticket Flags in hexadecimal format.
   sample_value: '0x2'
-- standard_name: TicketEncryptionType
+- standard_name: KrbTicketEncryptionType
   standard_type: TBD
   name: TicketEncryptionType
   type: HexInt32

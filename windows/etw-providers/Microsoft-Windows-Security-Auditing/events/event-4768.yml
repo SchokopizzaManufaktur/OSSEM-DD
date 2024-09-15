@@ -47,13 +47,13 @@ event_fields:
   type: HexInt32
   description: hexadecimal result code of TGT issue operation.
   sample_value: '0x0'
-- standard_name: TicketEncryptionType
+- standard_name: KrbTicketEncryptionType
   standard_type: TBD
   name: TicketEncryptionType
   type: HexInt32
   description: the cryptographic suite that was used for issued TGT
   sample_value: '0x12'
-- standard_name: TicketPreAuthType
+- standard_name: KrbTicketPreAuthType
   standard_type: TBD
   name: PreAuthType
   type: UnicodeString

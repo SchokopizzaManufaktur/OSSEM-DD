@@ -35,7 +35,7 @@ event_fields:
   type: HexInt32
   description: hexadecimal failure code of failed TGT issue operation
   sample_value: '0x10'
-- standard_name: TicketPreAuthType
+- standard_name: KrbTicketPreAuthType
   standard_type: TBD
   name: PreAuthType
   type: UnicodeString
