@@ -83,7 +83,7 @@ event_fields:
   type: TEXT
   description: Cb Process GUID of process
   sample_value: 00000001-0000-0c70-01d1-1e951aae7e2f
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: process_path
   type: TEXT

@@ -53,7 +53,7 @@ event_fields:
   type: TEXT
   description: md5 of process executable
   sample_value: 0E7196981EDE614F1F54FFF2C3843ADF
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: path
   type: TEXT
