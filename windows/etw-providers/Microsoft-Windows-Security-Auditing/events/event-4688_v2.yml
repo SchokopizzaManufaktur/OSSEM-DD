@@ -83,7 +83,7 @@ event_fields:
   type: HexInt64
   description: 'hexadecimal value that can help you correlate this event with recent events that might contain the same Logon ID, for example, "4624: An account was successfully logged on."'
   sample_value: '0x4a5af0'
-- standard_name: ProcessParentPath
+- standard_name: ProcessParentFilePath
   standard_type: TBD
   name: ParentProcessName
   type: UnicodeString

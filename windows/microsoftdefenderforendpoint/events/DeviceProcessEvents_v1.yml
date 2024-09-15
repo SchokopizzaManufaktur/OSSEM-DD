@@ -299,7 +299,7 @@ event_fields:
   type: date
   description: Date and time when the process that initiated the event was started
   sample_value: ''
-- standard_name: ProcessParentPath
+- standard_name: ProcessParentFilePath
   standard_type: TBD
   name: InitiatingProcessFolderPath
   type: string
