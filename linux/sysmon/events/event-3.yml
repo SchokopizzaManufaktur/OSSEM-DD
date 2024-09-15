@@ -107,7 +107,7 @@ event_fields:
   type: integer
   description: destination port number
   sample_value: '25224'
-- standard_name: DstPortNumberName
+- standard_name: DstPortName
   standard_type: TBD
   name: DestinationPortName
   type: string
