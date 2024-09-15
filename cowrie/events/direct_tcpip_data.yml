@@ -41,7 +41,7 @@ event_fields:
   type: string
   description: The IP towards which the forwarding attempt was executed
   sample_value: '192.168.1.23'
-- standard_name: DstPort
+- standard_name: DstPortNumber
   standard_type: integer
   name: dst_port
   type: integer

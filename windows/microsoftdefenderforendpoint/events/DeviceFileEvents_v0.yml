@@ -167,7 +167,7 @@ event_fields:
   type: date
   description: Date and time when the parent of the process responsible for the event was started
   sample_value: ''
-- standard_name: DstPortName
+- standard_name: DstPortNumberName
   standard_type: TBD
   name: RequestProtocol
   type: string

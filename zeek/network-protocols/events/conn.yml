@@ -35,7 +35,7 @@ event_fields:
   type: ip
   description: The responding/destination IP address
   sample_value: 10.0.0.2
-- standard_name: DstPort
+- standard_name: DstPortNumber
   standard_type: TBD
   name: id.resp_p
   type: integer

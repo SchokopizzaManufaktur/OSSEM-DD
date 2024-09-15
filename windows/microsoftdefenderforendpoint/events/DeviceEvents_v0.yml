@@ -137,7 +137,7 @@ event_fields:
   type: string
   description: IP address that was being connected to
   sample_value: ''
-- standard_name: DstPort
+- standard_name: DstPortNumber
   standard_type: TBD
   name: RemotePort
   type: int

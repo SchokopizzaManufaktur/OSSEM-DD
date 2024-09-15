@@ -77,7 +77,7 @@ event_fields:
   type: string
   description: Type of IP address, for example Public, Private, Reserved, Loopback, Teredo, FourToSixMapping, and Broadcast
   sample_value: ''
-- standard_name: DstPort
+- standard_name: DstPortNumber
   standard_type: TBD
   name: RemotePort
   type: int

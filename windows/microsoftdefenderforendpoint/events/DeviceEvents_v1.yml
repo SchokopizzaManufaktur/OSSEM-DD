@@ -125,7 +125,7 @@ event_fields:
   type: string
   description: IP address that was being connected to
   sample_value: ''
-- standard_name: DstPort
+- standard_name: DstPortNumber
   name: RemotePort
   type: int
   description: TCP port on the remote device that was being connected to

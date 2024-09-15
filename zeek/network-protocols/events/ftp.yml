@@ -35,7 +35,7 @@ event_fields:
   type: ip
   description: The responding/destination IP address. The host that will be accepting the data connection
   sample_value: 192.185.230.61
-- standard_name: DstPort
+- standard_name: DstPortNumber
   standard_type: TBD
   name: id.resp_p
   type: integer

@@ -47,7 +47,7 @@ event_fields:
   type: string
   description: Destination IP of the connection. Should be one of Cowrie's IP addresses
   sample_value: '192.168.1.22'
-- standard_name: DstPort
+- standard_name: DstPortNumber
   standard_type: integer
   name: dst_port
   type: int

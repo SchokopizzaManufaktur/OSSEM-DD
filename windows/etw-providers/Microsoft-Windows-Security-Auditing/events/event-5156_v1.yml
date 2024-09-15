@@ -41,7 +41,7 @@ event_fields:
   type: UnicodeString
   description: IP address where the connection was received.
   sample_value: 10.0.0.100
-- standard_name: DstPort
+- standard_name: DstPortNumber
   standard_type: TBD
   name: DestPort
   type: UnicodeString
