@@ -35,7 +35,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the new process.
   sample_value: '0x2bc'
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: NewProcessName
   type: UnicodeString

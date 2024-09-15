@@ -53,7 +53,7 @@ event_fields:
   type: DATE
   description: The time the process was started
   sample_value: 2/20/2018 11:00:09 PM
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: Path
   type: TEXT

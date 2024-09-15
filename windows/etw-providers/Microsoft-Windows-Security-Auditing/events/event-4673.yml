@@ -53,7 +53,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the process that attempted to call the privileged service.
   sample_value: '0x1f0'
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: ProcessName
   type: UnicodeString

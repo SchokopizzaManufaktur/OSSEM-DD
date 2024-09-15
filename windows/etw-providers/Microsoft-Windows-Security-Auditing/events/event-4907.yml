@@ -71,7 +71,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the process through which the object's SACL was changed.
   sample_value: '0x120c'
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: ProcessName
   type: UnicodeString

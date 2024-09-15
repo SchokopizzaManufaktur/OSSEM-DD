@@ -53,7 +53,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the process through which the state of the transaction was changed. Process ID (PID) is a number used by the operating system to uniquely identify an active process
   sample_value: '0x370'
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: ProcessName
   type: UnicodeString

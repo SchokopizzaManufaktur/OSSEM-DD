@@ -11,7 +11,7 @@ event_fields:
   type: UInt64
   description: Hexadecimal Process ID of the process that attempted to create the connection.
   sample_value: '4556'
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: Application
   type: UnicodeString

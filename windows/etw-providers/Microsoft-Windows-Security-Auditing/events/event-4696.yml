@@ -71,7 +71,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the process which started the new process with the new security token.
   sample_value: '0x698'
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: ProcessName
   type: UnicodeString

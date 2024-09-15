@@ -59,7 +59,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the process through which the access was requested.
   sample_value: '0x4'
-- standard_name: ProcessPath
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: ProcessName
   type: UnicodeString
