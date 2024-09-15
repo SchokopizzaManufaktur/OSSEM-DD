@@ -17,7 +17,7 @@ event_fields:
   type: UnicodeString
   description: the name of the Kerberos Realm that Account Name belongs to
   sample_value: CONTOSO.LOCAL
-- standard_name: ServiceName
+- standard_name: KrbServiceName
   standard_type: TBD
   name: ServiceName
   type: UnicodeString

@@ -23,7 +23,7 @@ event_fields:
   type: TEXT
   description: SO Host Data's unique identifier of associated logon session
   sample_value: EC0AC744FFFBE3228F9E73EC60FA74F3BAB8330DFBCA51B269FC8A3B3B5DD7CD
-- standard_name: ServiceName
+- standard_name: KrbServiceName
   standard_type: TBD
   name: ServiceName
   type: TEXT
