@@ -59,7 +59,7 @@ event_fields:
   type: string
   description: Company name the image associated with the main process (child) belongs to
   sample_value: Microsoft Corporation
-- standard_name: FileNameOriginal
+- standard_name: FileNamePrevious
   standard_type: TBD
   name: OriginalFileName
   type: string
