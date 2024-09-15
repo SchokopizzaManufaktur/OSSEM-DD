@@ -135,7 +135,7 @@ event_fields:
   type: string
   description: IP address assigned to the local machine used during communication
   sample_value: ''
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   name: LocalPort
   type: int
   description: TCP port on the local machine used during communication

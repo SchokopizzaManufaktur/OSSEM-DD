@@ -23,7 +23,7 @@ event_fields:
   type: UnicodeString
   description: The local IP address of the computer running the application.
   sample_value: 0.0.0.0
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: SourcePort
   type: UnicodeString

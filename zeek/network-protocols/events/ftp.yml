@@ -23,7 +23,7 @@ event_fields:
   type: ip
   description: The originating/source IP address. The host that will be initiating the data connection
   sample_value: 10.11.20.102
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: id.orig_p
   type: integer

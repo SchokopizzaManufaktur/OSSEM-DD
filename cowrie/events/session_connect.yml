@@ -35,7 +35,7 @@ event_fields:
   type: string
   description: A unique identifier for a cowrie SSH session
   sample_value: aaacde98ab17
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: integer
   name: src_port
   type: int

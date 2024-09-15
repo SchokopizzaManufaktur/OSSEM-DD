@@ -65,7 +65,7 @@ event_fields:
   type: UnicodeString
   description: IP address of the computer from which the TGT request was received
   sample_value: ::ffff:10.0.0.12
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: IpPort
   type: UnicodeString

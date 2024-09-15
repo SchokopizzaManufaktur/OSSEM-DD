@@ -47,7 +47,7 @@ event_fields:
   type: integer
   description: The port towards which the forwarding attempt was executed
   sample_value: 80
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: integer
   name: src_port
   type: integer

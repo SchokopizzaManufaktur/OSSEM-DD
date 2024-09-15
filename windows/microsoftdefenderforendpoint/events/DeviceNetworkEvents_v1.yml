@@ -53,7 +53,7 @@ event_fields:
   type: string
   description: IP address assigned to the local machine used during communication
   sample_value: ''
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: LocalPort
   type: int

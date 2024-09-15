@@ -17,7 +17,7 @@ event_fields:
   type: ip
   description: The originating/source IP address
   sample_value: 117.195.143.198
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: id.orig_p
   type: integer

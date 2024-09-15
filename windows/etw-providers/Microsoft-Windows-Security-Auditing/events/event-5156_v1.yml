@@ -29,7 +29,7 @@ event_fields:
   type: UnicodeString
   description: IP address from which the connection was initiated.
   sample_value: 10.0.0.10
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: SourcePort
   type: UnicodeString

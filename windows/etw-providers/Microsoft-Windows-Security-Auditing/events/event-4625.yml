@@ -125,7 +125,7 @@ event_fields:
   type: UnicodeString
   description: IP address of machine from which logon attempt was performed
   sample_value: 127.0.0.1
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: IpPort
   type: UnicodeString

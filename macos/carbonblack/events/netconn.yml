@@ -59,7 +59,7 @@ event_fields:
   type: TEXT
   description: Local IP address of network connection (network interface on the endpoint)
   sample_value: 172.31.30.0
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: local_port
   type: INTEGER

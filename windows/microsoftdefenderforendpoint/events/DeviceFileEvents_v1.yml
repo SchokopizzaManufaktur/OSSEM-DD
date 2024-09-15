@@ -215,7 +215,7 @@ event_fields:
   type: date
   description: IPv4 or IPv6 address of the remote device that initiated the activity
   sample_value: ''
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   name: RequestSourcePort
   type: integer
   description: Source port on the remote device that initiated the activity

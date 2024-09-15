@@ -29,7 +29,7 @@ event_fields:
   type: UnicodeString
   description: local IP address on which application received the packet.
   sample_value: 10.0.0.100
-- standard_name: SrcPort
+- standard_name: SrcPortNumber
   standard_type: TBD
   name: SourcePort
   type: UnicodeString
