@@ -29,7 +29,7 @@ event_fields:
   type: HexInt32
   description: this is a set of different Ticket Flags in hexadecimal format
   sample_value: '0x40810010'
-- standard_name: TicketStatus
+- standard_name: KrbTicketStatus
   standard_type: TBD
   name: Status
   type: HexInt32
