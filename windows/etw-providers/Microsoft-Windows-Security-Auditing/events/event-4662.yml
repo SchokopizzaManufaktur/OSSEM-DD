@@ -59,7 +59,7 @@ event_fields:
   type: Pointer
   description: 'hexadecimal value of a handle to Object Name. This field can help you correlate this event with other events that might contain the same Handle ID, for example, "4661: A handle to an object was requested." This parameter might not be captured in the event, and in that case appears as "0x0".'
   sample_value: '0x0'
-- standard_name: ObjectAccessList
+- standard_name: UserAccessList
   standard_type: TBD
   name: AccessList
   type: UnicodeString

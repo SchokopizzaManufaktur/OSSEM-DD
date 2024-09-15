@@ -41,7 +41,7 @@ event_fields:
   type: UnicodeString
   description: full path and name of the object for which access was requested.
   sample_value: \Sessions\2\Windows\DwmApiPort
-- standard_name: ObjectAccessList
+- standard_name: UserAccessList
   standard_type: TBD
   name: AccessList
   type: UnicodeString

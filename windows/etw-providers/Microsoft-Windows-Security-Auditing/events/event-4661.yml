@@ -59,7 +59,7 @@ event_fields:
   type: GUID
   description: 'unique GUID of the transaction. This field can help you correlate this event with other events that might contain the same the Transaction ID, such as "4660(S): An object was deleted."'
   sample_value: '{00000000-0000-0000-0000-000000000000}'
-- standard_name: ObjectAccessList
+- standard_name: UserAccessList
   standard_type: TBD
   name: AccessList
   type: UnicodeString
