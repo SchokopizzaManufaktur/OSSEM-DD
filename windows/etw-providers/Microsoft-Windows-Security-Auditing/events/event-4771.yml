@@ -23,7 +23,7 @@ event_fields:
   type: UnicodeString
   description: 'the name of the service in the Kerberos Realm to which TGT request was sent. Typically has one of the following formats: krbtgt/DOMAIN_NETBIOS_NAME. Example: krbtgt/CONTOSO, krbtgt/DOMAIN_FULL_NAME. Example: krbtgt/CONTOSO.LOCAL'
   sample_value: krbtgt/CONTOSO.LOCAL
-- standard_name: TicketOptions
+- standard_name: KrbTicketOptions
   standard_type: TBD
   name: TicketOptions
   type: HexInt32
