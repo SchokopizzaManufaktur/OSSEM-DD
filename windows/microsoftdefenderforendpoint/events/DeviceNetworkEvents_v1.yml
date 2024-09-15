@@ -41,7 +41,7 @@ event_fields:
   type: int
   description: TCP port on the remote device that was being connected to
   sample_value: ''
-- standard_name: DstHostName
+- standard_name: DstDvcFqdn
   standard_type: TBD
   name: RemoteUrl
   type: string

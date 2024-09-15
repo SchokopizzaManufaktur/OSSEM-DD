@@ -77,7 +77,7 @@ event_fields:
   type: string
   description: Identifier for a logon session. This identifier is unique on the same machine only between restarts
   sample_value: ''
-- standard_name: DstHostName
+- standard_name: DstDvcHostname
   standard_type: TBD
   name: RemoteDeviceName
   type: string
