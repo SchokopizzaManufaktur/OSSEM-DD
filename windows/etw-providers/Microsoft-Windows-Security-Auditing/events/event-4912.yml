@@ -41,7 +41,7 @@ event_fields:
   type: UnicodeString
   description: the name of auditing category which subcategory state was changed.
   sample_value: '%%8276'
-- standard_name: AuditPolicySubcategoryId
+- standard_name: AuditPolicySubCategoryId
   standard_type: TBD
   name: SubcategoryId
   type: UnicodeString
