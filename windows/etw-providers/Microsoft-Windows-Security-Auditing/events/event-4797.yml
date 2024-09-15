@@ -29,7 +29,7 @@ event_fields:
   type: HexInt64
   description: 'hexadecimal value that can help you correlate this event with recent events that might contain the same Logon ID, for example, "4624: An account was successfully logged on."'
   sample_value: '0x72d9d'
-- standard_name: SourceHostName
+- standard_name: SrcDvcHostname
   standard_type: TBD
   name: Workstation
   type: UnicodeString
