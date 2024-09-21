@@ -35,7 +35,7 @@ event_fields:
   type: string
   description: Domain given by the server in option 15.
   sample_value: somedomain.local
-- standard_name: SrcDvcHostname
+- standard_name: SrcHostname
   standard_type: TBD
   name: host_name
   type: string

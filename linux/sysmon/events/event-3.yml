@@ -65,7 +65,7 @@ event_fields:
   type: ip
   description: source ip address that made the network connection
   sample_value: 127.0.0.1
-- standard_name: SrcDvcHostname
+- standard_name: SrcHostname
   standard_type: TBD
   name: SourceHostname
   type: string
@@ -95,7 +95,7 @@ event_fields:
   type: ip
   description: ip address destination
   sample_value: 127.0.0.1
-- standard_name: DstDvcHostname
+- standard_name: DstHostname
   standard_type: TBD
   name: DestinationHostname
   type: string

@@ -17,7 +17,7 @@ event_fields:
   type: UnicodeString
   description: the name of the account that had its credentials validated by the Authentication Package. Can be user name, computer account name or well-known security principal account name.
   sample_value: dadmin
-- standard_name: SrcDvcHostname
+- standard_name: SrcHostname
   standard_type: TBD
   name: Workstation
   type: UnicodeString

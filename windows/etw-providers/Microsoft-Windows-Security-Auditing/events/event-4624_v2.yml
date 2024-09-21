@@ -71,7 +71,7 @@ event_fields:
   type: UnicodeString
   description: 'The name of the authentication package which was used for the logon authentication process. Default packages loaded on LSA startup are located in "HKLM\SYSTEM\CurrentControlSet\Control\Lsa\OSConfig" registry key. Other packages can be loaded at runtime. When a new package is loaded a "4610: An authentication package has been loaded by the Local Security Authority" (typically for NTLM) or "4622: A security package has been loaded by the Local Security Authority" (typically for Kerberos) event is logged to indicate that a new package has been loaded along with the package name.'
   sample_value: Negotiate
-- standard_name: SrcDvcHostname
+- standard_name: SrcHostname
   standard_type: TBD
   name: WorkstationName
   type: UnicodeString

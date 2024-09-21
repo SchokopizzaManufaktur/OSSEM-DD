@@ -41,7 +41,7 @@ event_fields:
   type: UnicodeString
   description: the name of the new trusted forest information entry.
   sample_value: '-'
-- standard_name: DstDvcHostname
+- standard_name: DstHostname
   standard_type: TBD
   name: DnsName
   type: UnicodeString

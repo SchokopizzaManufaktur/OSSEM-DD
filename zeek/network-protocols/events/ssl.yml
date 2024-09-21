@@ -53,7 +53,7 @@ event_fields:
   type: array_string
   description: present if base/protocols/ssl/files.bro is loaded An ordered vector of all certificate file unique IDs for the certificates offered by the client.
   sample_value: '[]'
-- standard_name: DstDvcHostname
+- standard_name: DstHostname
   standard_type: TBD
   name: server_name
   type: string

@@ -83,7 +83,7 @@ event_fields:
   type: UnicodeString
   description: The name of the authentication package which was used for the logon authentication process. Default packages loaded on LSA startup are located in "HKLM\SYSTEM\CurrentControlSet\Control\Lsa\OSConfig" registry key.
   sample_value: Negotiate
-- standard_name: SrcDvcHostname
+- standard_name: SrcHostname
   standard_type: TBD
   name: WorkstationName
   type: UnicodeString
