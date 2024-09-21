@@ -77,7 +77,7 @@ event_fields:
   type: integer
   description: source port number
   sample_value: '138'
-- standard_name: SrcPortNumber
+- standard_name: SrcPortName
   standard_type: TBD
   name: SourcePortName
   type: string
