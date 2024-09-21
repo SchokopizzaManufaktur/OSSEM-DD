@@ -41,7 +41,7 @@ event_fields:
   type: Pointer
   description: hexadecimal Process ID of the ended/terminated process.
   sample_value: '0xfb0'
-- standard_name: ProcessName
+- standard_name: ProcessFilePath
   standard_type: TBD
   name: ProcessName
   type: UnicodeString
